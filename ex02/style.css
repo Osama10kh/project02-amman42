@@ -5,7 +5,6 @@
 }
 
 body {
-    font-family: sans-serif;
     padding: 40px;
     background-color: #f8f9fa;
     text-align: center;
@@ -28,21 +27,21 @@ h1 {
 .square {
     width: 100px;
     height: 100px;
-    background-color: #3498db;
+    background-color: #333;
 }
 
 
 .rectangle {
     width: 150px;
     height: 90px;
-    background-color: #2ecc71;
+    background-color: #333;
 }
 
 
 .circle {
     width: 100px;
     height: 100px;
-    background-color: #e74c3c;
+    background-color: #333;
     border-radius: 50%; 
 }
 
@@ -50,7 +49,7 @@ h1 {
 .pill {
     width: 160px;
     height: 70px;
-    background-color: #f1c40f;
+    background-color: #333;
     border-radius: 50px; 
 }
 
@@ -60,5 +59,5 @@ h1 {
     height: 0;
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
-    border-bottom: 100px solid #9b59b6;
+    border-bottom: 100px solid #333;
 }
